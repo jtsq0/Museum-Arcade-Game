@@ -1,6 +1,5 @@
 # Museum-Arcade-Game
-Video Game Design 1 (Group Project)
-Our Arcade Game is going to be a very similar game to the classic Galaga.
+Video Game Design 1 (Group Project) --- Our Arcade Game is going to be a very similar game to the classic Galaga.
 
 	Concept:
 		
