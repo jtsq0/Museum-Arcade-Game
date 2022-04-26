@@ -1,0 +1,299 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 8043 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/ejwh6/Documents/GitHub/Museum-Arcade-Game/VGD Museum Arcade Game
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+61374
+Successfully changed project path to: C:/Users/ejwh6/Documents/GitHub/Museum-Arcade-Game/VGD Museum Arcade Game
+C:/Users/ejwh6/Documents/GitHub/Museum-Arcade-Game/VGD Museum Arcade Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 220.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ejwh6/Documents/GitHub/Museum-Arcade-Game/VGD Museum Arcade Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 610 (ID=0x3ea1)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.20.100.8141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56452
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006192 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 77.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.552 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2553ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (935ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (303ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (140ms)
+			SetupLoadedEditorAssemblies (339ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 275.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 19.564 seconds
+Domain Reload Profiling:
+	ReloadAssembly (19575ms)
+		BeginReloadAssembly (312ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (19146ms)
+			LoadAssemblies (8250ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (4926ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (444ms)
+			SetupLoadedEditorAssemblies (3371ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (275ms)
+				BeforeProcessingInitializeOnLoad (384ms)
+				ProcessInitializeOnLoadAttributes (2594ms)
+				ProcessInitializeOnLoadMethodAttributes (68ms)
+				AfterProcessingInitializeOnLoad (29ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.03 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2528.
+Total: 22.003400 ms (FindLiveObjects: 10.893500 ms CreateObjectMapping: 0.301800 ms MarkObjects: 10.666700 ms  DeleteObjects: 0.137200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.068485 seconds 
+  Import took 0.078183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.736636 seconds.
+  path: Assets/2D Pixel Spaceship - Two Small Ships/Sprites/sprites.png
+  artifactKey: Guid(8aeb9e233fbb8f14db39770841b78b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Pixel Spaceship - Two Small Ships/Sprites/sprites.png using Guid(8aeb9e233fbb8f14db39770841b78b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be94c70338d4bf354d32ab5c23af3ae') in 0.716797 seconds 
+  Import took 0.726731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.649783 seconds.
+  path: Assets/Space Background (1).png
+  artifactKey: Guid(e672c12ddff29f64c8390837cf0b0ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Background (1).png using Guid(e672c12ddff29f64c8390837cf0b0ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88778213ad81be247822ea662ec9485') in 0.350194 seconds 
+  Import took 0.358704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7383.893497 seconds.
+  path: Assets/Space Backgrounds
+  artifactKey: Guid(3fab297e582c146469a96f0bbbc73067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgrounds using Guid(3fab297e582c146469a96f0bbbc73067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f670fa27362bb2a7e23e4b4e7113725') in 0.042276 seconds 
+  Import took 0.182317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.325000 seconds.
+  path: Assets/Space Backgrounds/Space Background (2).png
+  artifactKey: Guid(961d8535a298a764abc07de0210e33c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgrounds/Space Background (2).png using Guid(961d8535a298a764abc07de0210e33c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfec3694805c307b2234ccfd14c4e5f') in 0.299455 seconds 
+  Import took 0.321291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165563.356023 seconds.
+  path: Assets/Space Backgrounds/Museum Arcade Main Menu.png
+  artifactKey: Guid(dd8b6db64ba89fe4ab78e48091ff1b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgrounds/Museum Arcade Main Menu.png using Guid(dd8b6db64ba89fe4ab78e48091ff1b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c3350673bce306a4c36cb10c21552d') in 0.196767 seconds 
+  Import took 0.589278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.152850 seconds.
+  path: Assets/Space Backgrounds/2D Pixel Spaceship - Two Small Ships
+  artifactKey: Guid(eb4e2f440c777a247a9e850d93cea4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgrounds/2D Pixel Spaceship - Two Small Ships using Guid(eb4e2f440c777a247a9e850d93cea4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e982cb0824fd3a4536456806d08fb5b2') in 0.039134 seconds 
+  Import took 0.048511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006105 seconds.
+  path: Assets/Space Backgrounds/2D Pixel Spaceship - Two Small Ships
+  artifactKey: Guid(eb4e2f440c777a247a9e850d93cea4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgrounds/2D Pixel Spaceship - Two Small Ships using Guid(eb4e2f440c777a247a9e850d93cea4ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e982cb0824fd3a4536456806d08fb5b2') in 0.015359 seconds 
+  Import took 0.031179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.593461 seconds.
+  path: Assets/Space Backgrounds/Main Menu Background.png
+  artifactKey: Guid(dd8b6db64ba89fe4ab78e48091ff1b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgrounds/Main Menu Background.png using Guid(dd8b6db64ba89fe4ab78e48091ff1b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24deea4489d59342c77c20e356cabc0') in 0.090080 seconds 
+  Import took 0.132347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 333.683460 seconds.
+  path: Assets/Backgrounds
+  artifactKey: Guid(3fab297e582c146469a96f0bbbc73067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds using Guid(3fab297e582c146469a96f0bbbc73067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510cd02da6716debc898a3965d2493b4') in 0.042768 seconds 
+  Import took 0.051240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.179418 seconds.
+  path: Assets/Backgrounds/Main Menu
+  artifactKey: Guid(a5a3e5338b96dbc429fd15aa7c94d143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu using Guid(a5a3e5338b96dbc429fd15aa7c94d143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1289568c7e1adc23c231595378b4a81d') in 0.044165 seconds 
+  Import took 0.051614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.749781 seconds.
+  path: Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (1).png
+  artifactKey: Guid(0a5ec7c79dd80f04aa6e814a60e5637b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (1).png using Guid(0a5ec7c79dd80f04aa6e814a60e5637b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e56b833e7412a304c0749895ffbdc2') in 0.374825 seconds 
+  Import took 0.400946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.704405 seconds.
+  path: Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (1).png
+  artifactKey: Guid(0a5ec7c79dd80f04aa6e814a60e5637b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (1).png using Guid(0a5ec7c79dd80f04aa6e814a60e5637b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e6e878a0b3b60f9fe948b82f23294c') in 0.125855 seconds 
+  Import took 0.136438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.790712 seconds.
+  path: Assets/Backgrounds/Main Menu/Start Button.png
+  artifactKey: Guid(0a5ec7c79dd80f04aa6e814a60e5637b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Start Button.png using Guid(0a5ec7c79dd80f04aa6e814a60e5637b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0a3056d0ef2b6f6299336666632f51') in 0.138667 seconds 
+  Import took 0.204957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.260751 seconds.
+  path: Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (2).png
+  artifactKey: Guid(2fd1b51fb5926344aa1de1e9cd404b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (2).png using Guid(2fd1b51fb5926344aa1de1e9cd404b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0431719e01f9d52d0d0bb3b983fa5e57') in 0.280892 seconds 
+  Import took 0.295801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.163746 seconds.
+  path: Assets/Backgrounds/Main Menu/Settings Button.png
+  artifactKey: Guid(2fd1b51fb5926344aa1de1e9cd404b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Settings Button.png using Guid(2fd1b51fb5926344aa1de1e9cd404b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c82b3b908647330c181658ade9548e2') in 0.125577 seconds 
+  Import took 0.139190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.096282 seconds.
+  path: Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (3).png
+  artifactKey: Guid(c212320cfcd576e4b9ad7a2a4622e10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (3).png using Guid(c212320cfcd576e4b9ad7a2a4622e10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ba99f2a9585e2f66e2694969585187') in 0.173859 seconds 
+  Import took 0.188636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.923457 seconds.
+  path: Assets/Backgrounds/Main Menu/Credits Button.png
+  artifactKey: Guid(c212320cfcd576e4b9ad7a2a4622e10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Credits Button.png using Guid(c212320cfcd576e4b9ad7a2a4622e10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f483ef34eef6b4e454a899fd4e802af4') in 0.117972 seconds 
+  Import took 0.142400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 279186.210269 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(c36d53c205a0578448e921125aea9cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(c36d53c205a0578448e921125aea9cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '909478189ae12180b4ba54c7a2b9814a') in 0.071766 seconds 
+  Import took 0.527462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 149105.772274 seconds.
+  path: Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (4).png
+  artifactKey: Guid(8a8fc3f0a89ec36469c56b18b5693cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Museum Arcade Main Menu (4).png using Guid(8a8fc3f0a89ec36469c56b18b5693cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea2c369a97226c03aa9b9c7b202be17') in 0.236729 seconds 
+  Import took 0.601934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.905901 seconds.
+  path: Assets/Backgrounds/Main Menu/Title.png
+  artifactKey: Guid(8a8fc3f0a89ec36469c56b18b5693cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Main Menu/Title.png using Guid(8a8fc3f0a89ec36469c56b18b5693cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1815fa2645f6c101a9cbf1469a1ec624') in 0.134757 seconds 
+  Import took 0.151319 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
